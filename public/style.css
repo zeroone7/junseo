@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(180deg, dodgerblue, tomato), url(./bg.jpg);
+    background-blend-mode: saturation;
+}
+
+h1 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 100vh;
+    color: hotpink;
+}
